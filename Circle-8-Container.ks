@@ -32,7 +32,7 @@ glibc-minimal-langpack
 hostname
 iputils
 less
-circle-release
+circle-linux-release
 rootfiles
 tar
 vim-minimal
